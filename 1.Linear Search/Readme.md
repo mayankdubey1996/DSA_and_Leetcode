@@ -29,12 +29,12 @@ If the element which we are searching for is found at 0th index, then we will on
 If the element which we are searching for is not found, then we have to make scan all the elements and at the end we make the conclusion that element not found. In this scenario we are making `n` comparision hence time complexity is o(n).
 
 #### Questions
-1. Linear Search
-2. Search In String
-3. Search In Range
-4. Find Maximum Number
-5. Find Minimum Number
-6. Search In 2D Array
-7. Find Numbers with Even Number of Digits [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/))
-8. Richest Customer Wealth [LeetCode](https://leetcode.com/problems/richest-customer-wealth/)
+1. [Linear Search](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/linear_search.py)
+2. [Search In String](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/search_in_string.py)
+3. [Search In Range](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/search_in_range.py)
+4. [Find Maximum Number](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/find_maximum.py)
+5. [Find Minimum Number](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/find_mimimum.py)
+6. [Search In 2D Array](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/search_in_2d_array.py)
+7. [Find Numbers with Even Number of Digits](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/even_digits.py) [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
+8. [Richest Customer Wealth](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/richest_customer.py) [LeetCode](https://leetcode.com/problems/richest-customer-wealth/)
 
