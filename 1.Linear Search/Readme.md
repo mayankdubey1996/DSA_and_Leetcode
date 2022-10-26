@@ -14,8 +14,6 @@ target = 1
 <images>
 
 #### Time Complexity:
-
-
    | **Scenario**        | **Time Complexity** |         
    | :-------------: |:-------------:| :-----:|
    | Best Case | O(1) |                        
