@@ -20,6 +20,11 @@ target = 1
 |Best Case |O(1)             |
 |Worst Case|O(n)
 
+   | **Scenario**        | **Time Complexity** |         
+   | :-------------: |:-------------:| :-----:|
+   | Best Case | O(1) |                        
+   |Worst Case|O(n) |
+  
 n: size of the array
 
 #### Explanation
