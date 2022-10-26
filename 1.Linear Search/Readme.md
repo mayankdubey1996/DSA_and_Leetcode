@@ -15,7 +15,7 @@ target = 1
 
 #### Time Complexity:
    | **Scenario**        | **Time Complexity** |         
-   | :-------------: |:-------------:| :-----:|
+   | :-------------: |:-------------:|
    | Best Case | O(1) |                        
    |Worst Case|O(n) |
   
