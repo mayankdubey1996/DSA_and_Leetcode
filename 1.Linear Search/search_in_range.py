@@ -1,6 +1,3 @@
-from xml.dom import INDEX_SIZE_ERR
-
-
 def search_in_range(arr, target, start_idx, end_idx):
     """
     Given the array, target, start index and end index this function search in range
