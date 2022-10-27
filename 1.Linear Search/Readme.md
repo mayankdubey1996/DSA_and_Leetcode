@@ -2,8 +2,8 @@
 - Given the array/list of the elements search if target exist in the array or not.
 - If value exist return the index, If value does not exist return -1
 
-arr = [8,5,7,1,9,2]
-target = 1
+`arr = [8,5,7,1,9,2]` <br>
+`target = 1`
 
 #### Working:
 
@@ -37,7 +37,7 @@ n: size of the array
 - Best Case:
 If the element which we are searching for is found at 0th index, then we will only make only 1 comparision hence time complexity is O(1).
 - Worst Case:
-If the element which we are searching for is not found, then we have to make scan all the elements and at the end we make the conclusion that element not found. In this scenario we are making `n` comparision hence time complexity is o(n).
+If the element which we are searching for is not found, then we have to make scan all the elements and at the end we make the conclusion that element not found. In this scenario we are making `n` comparision hence time complexity is O(n).
 
 #### Questions
    | **Question**        | **Notes** |**Leetcode** |        
