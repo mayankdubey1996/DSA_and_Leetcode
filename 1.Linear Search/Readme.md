@@ -41,7 +41,7 @@ If the element which we are searching for is not found, then we have to make sca
 
 #### Questions
    | **Question**        | **Notes** |**Leetcode** |        
-   |  |:-------------:|:-------------:|
+   | :------------- |:-------------:|:-------------:|
    |1. [Linear Search](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/linear_search.py)|[Notes](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/Notes/linear_search.md)|--|
    |2. [Search In String](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/search_in_string.py)||--|
    |3. [Search In Range](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/search_in_range.py)||--|
