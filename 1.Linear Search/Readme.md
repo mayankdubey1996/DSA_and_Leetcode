@@ -1,16 +1,16 @@
 ## Linear Search
-- Given the list of the elements search if target exist in the array or not.
-- If value exist return the index, If value does not exist return -1.
+- Naive way to search the element in the list or string.
+- Scan through the list and compare every element to the target element.
 
 `arr = [8,5,7,1,9,2]` <br>
 `target = 1`
 
 #### Working:
 
-1. When element exist in the array.
+1. When element exist in the array, **return index** where target is found.
 <images>
 
-2. When element does not exist in the array.
+2. When element does not exist in the array, **return -1.**
 <images>
    
 #### Pseudo code:
