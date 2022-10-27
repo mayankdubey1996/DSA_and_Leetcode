@@ -21,7 +21,6 @@ target = 1
       FOR i=0 to len(arr):
          IF arr[i]==target THEN:
             RETURN i #element found at ith index
-   
       RETURN -1 #element not found
    ```
 
