@@ -12,6 +12,18 @@ target = 1
 
 2. When element does not exist in the array.
 <images>
+   
+#### Pseudo code:
+   ```py
+   arr = [6,7,2,1,4,5]
+   target = 4
+   FUNCTION linear_search(arr,target):
+      FOR i=0 to len(arr):
+         IF arr[i]==target THEN:
+            RETURN i #element found at ith index
+   
+   RETURN -1 #element not found
+   ```
 
 #### Time Complexity:
    | **Scenario**        | **Time Complexity** |         
