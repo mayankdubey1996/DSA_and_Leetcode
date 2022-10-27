@@ -22,7 +22,7 @@ target = 1
          IF arr[i]==target THEN:
             RETURN i #element found at ith index
    
-   RETURN -1 #element not found
+      RETURN -1 #element not found
    ```
 
 #### Time Complexity:
