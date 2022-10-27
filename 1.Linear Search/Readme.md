@@ -34,9 +34,9 @@ n: size of the array
 
 #### Explanation:
 
-- Best Case:
+- **Best Case:**
 If the element which we are searching for is found at 0th index, then we will only make only 1 comparision hence time complexity is O(1).
-- Worst Case:
+- **Worst Case:**
 If the element which we are searching for is not found, then we have to make scan all the elements and at the end we make the conclusion that element not found. In this scenario we are making `n` comparision hence time complexity is O(n).
 
 #### Code
