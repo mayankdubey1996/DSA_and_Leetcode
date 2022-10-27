@@ -1,5 +1,5 @@
 ## Linear Search
-- Given the array/list of the elements search if target exist in the array or not.
+- Given the list of the elements search if target exist in the array or not.
 - If value exist return the index, If value does not exist return -1
 
 `arr = [8,5,7,1,9,2]` <br>
