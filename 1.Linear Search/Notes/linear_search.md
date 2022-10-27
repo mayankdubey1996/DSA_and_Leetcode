@@ -5,7 +5,7 @@ Given the array check if target exist in array or not
 `target = 1`<br>
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/1.linear_search.png)<br>
 
-- SCAN from left to right and check if $$i^th$$ element is target or not.
+- SCAN from left to right and check if i <sup>ith</sup> element is target or not.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/1.1linear_search.png)
 
