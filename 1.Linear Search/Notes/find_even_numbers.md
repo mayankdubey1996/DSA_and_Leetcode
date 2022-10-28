@@ -10,7 +10,7 @@ __example__
 
 Only 12 and 7896 has even number of digits.  
 
-![image]()
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/7.1even_digits.png)
 
 - How to find given number has even number of digit or not?
 
@@ -19,7 +19,7 @@ even or odd length of string.
 
 __Approach 2__: Another way is to check via __division method__.
 
-![image]()
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/7.2even_digits.png)
 
 - Divide (floor division) any number by 10.
 - number of digits is number of steps it will take us to reach to 0.
