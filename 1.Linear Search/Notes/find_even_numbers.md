@@ -4,9 +4,9 @@ Given an array nums of integers, return how many of them contain an even number 
 
 __example__ 
 
-	`nums = [12,345,2,6,7896]`	
+`nums = [12,345,2,6,7896]`	
 
-	`Output: 2`
+`Output: 2`
 
 Only 12 and 7896 has even number of digits.  
 
