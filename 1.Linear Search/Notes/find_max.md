@@ -19,6 +19,7 @@
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/4.3find_max.png)
 
+- __Return 19__ 
 
 
 
