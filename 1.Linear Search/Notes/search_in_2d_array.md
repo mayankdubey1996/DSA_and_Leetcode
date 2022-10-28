@@ -14,7 +14,7 @@
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/6.2search_in_2d.png)
 
-- Take 0<sup>th</sup> `row` and apply linear search. Search element in every column of 0<sup>th</sup> row.
+- Take 0<sup>th</sup> `row` and apply linear search. Search the element in every column of 0<sup>th</sup> row.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/6.3search_in_2d.png)
 
