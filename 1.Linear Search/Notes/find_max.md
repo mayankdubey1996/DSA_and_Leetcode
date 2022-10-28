@@ -11,11 +11,11 @@
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/4.2find_max.png)
 
-- Now go through every element in the array `[1,n)` and check if element is greater than `maxm`:
+- Now go through every element in the array (from first to last not 0<sup>th</sup>) `[1,n)` and check if element is greater than `maxm`:
 
-- __case 1:__ Element is greater than `maxm` then change the value of `maxm = arr[i]`
+- __case 1:__ Element is greater than `maxm`, then change the value of `maxm = arr[i]`
 
-- __case 2:__ Element is less than `maxm` then no change.
+- __case 2:__ Element is less than `maxm`, then no change.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/4.3find_max.png)
 
