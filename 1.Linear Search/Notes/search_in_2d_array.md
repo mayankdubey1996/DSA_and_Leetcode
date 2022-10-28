@@ -18,10 +18,10 @@
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/6.3search_in_2d.png)
 
-- Take 1<sup>st</sup> `row` and apply linear search. Search element in every column of 1<sup>st</sup> row.
+- Take 1<sup>st</sup> `row` and apply linear search. Search the element in every column of 1<sup>st</sup> row.
 
-!image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/6.4search_in_2d.png)
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/6.4search_in_2d.png)
 
-- Take 2<sup>nd</sup> `row` and apply linear search. Search element in every column of 2<sup>nd</sup> row.
+- Take 2<sup>nd</sup> `row` and apply linear search. Search the element in every column of 2<sup>nd</sup> row.
 
 - __Return (-1,-1)__, since 10 is not in the matrix.
