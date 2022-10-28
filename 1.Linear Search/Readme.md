@@ -39,7 +39,7 @@ n: size of the array
 - **Worst Case:**
 If the element which we are searching for is not found, then we have to make scan all the elements and at the end we make the conclusion that element not found. In this scenario we are making `n` comparision hence time complexity is O(n).
 
-#### Code
+#### Coding Questions
    | **Question**        | **Notes** |**Leetcode** |        
    | :------------- |:-------------:|:-------------:|
    |1. [Linear Search](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/linear_search.py)|[Notes](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/Notes/linear_search.md)|--|
