@@ -2,6 +2,7 @@
 - Given the array find the maximum number in the array
 
 `arr=[10,3,7,14,19,15,11,7]`
+
 `n -> len(arr)`
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/4.1find_max.png)
