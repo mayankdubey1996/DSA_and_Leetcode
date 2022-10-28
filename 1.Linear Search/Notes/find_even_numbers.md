@@ -21,8 +21,8 @@ even or odd length of string.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/7.2even_digits.png)
 
-  - Divide (floor division) any number by 10.
-  - number of digits is number of steps it will take us to reach to 0.
-  - In above example it took 4 steps then we have 4 digits in it.
+  - Divide (floor division) the number by 10.
+  - count the number of steps it will take to reach to 0.
+  - In above example it took 4 steps which means it has 4 digits.
 
 
