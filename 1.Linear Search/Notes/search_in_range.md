@@ -14,3 +14,6 @@ when target exist is in the array and in the range.
 when target is in the array but not in range range.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/3.3search_in_range.png)
+
+
+Although 11 is in the array, but it is not in range [2,5] it is located at 6<sup>th</sup> index.
