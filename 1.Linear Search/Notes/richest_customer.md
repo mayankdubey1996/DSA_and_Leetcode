@@ -24,19 +24,19 @@ Both customers are considered the richest with a wealth of 6 each, so return 6.<
 
 - Initialise `max=0`, means we have 0 money.
 
-![image]([link](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.3rich_customer.png))
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.3rich_customer.png)
 
 - Take 0<sup>th</sup> row and sum them all and check is it greater than `maxm`:
 	
 	- If YES then update `maxm`
 
-![image]([link](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.4rich_customer.png))
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.4rich_customer.png)
 
 - Take 1<sup>St</sup> row and sum them all and check is it greater than `maxm`:
 	
 	- NO UPDATE `maxm` 
 
-![image]([link](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.5rich_customer.png))
+![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/8.5rich_customer.png)
 
 - Take 0<sup>th</sup> row and sum them all and check is it greater than `maxm`:
 	
