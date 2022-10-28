@@ -14,10 +14,10 @@ __example__
 
 - How to find given number has even number of digit or not?
 
-__Approach 1__: Convert each number to strinf and use __`len()`__ function to check
+  __Approach 1__: Convert each number to strinf and use __`len()`__ function to check
 even or odd length of string.
 
-__Approach 2__: Another way is to check via __division method__.
+  __Approach 2__: Another way is to check via __division method__.
 
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/7.2even_digits.png)
 
