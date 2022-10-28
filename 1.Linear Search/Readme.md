@@ -30,7 +30,7 @@
    | Best Case | O(1) |                        
    |Worst Case|O(n) |
   
-n: size of the array
+n: size of an array
 
 #### Explanation:
 
