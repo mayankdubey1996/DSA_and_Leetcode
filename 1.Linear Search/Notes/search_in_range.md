@@ -6,7 +6,7 @@
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/3.1search_in_range.png)
 
 - __case 1__:
-when target exist in the range.
+when target exist in the range.<br>
 ![image](https://github.com/mayankdubey1996/DSA_and_Leetcode/blob/main/1.Linear%20Search/images/3.2search_in_range.png)
 
 - __case 2__:
