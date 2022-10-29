@@ -6,8 +6,8 @@
 - `arr1 = [2,4,9,10,12,14,18,19]` -> sorted array in Ascending order
 - `arr2 = [19,12,6,5,3,-1,-7,-8]` -> sorted array in Descending order
 
-- Let's say we want to search 18 `target=18` in `arr1` we can certainly apply linear search,
-worst case time complexity for linear search is O(n).
+- Let's say we want to search 18 `target=18` in `arr1` we can certainly apply linear search but
+worst case time complexity of linear search is O(n).
 
 - Can we do better? given that array is sorted.
 
@@ -45,6 +45,6 @@ worst case time complexity for linear search is O(n).
    |3. [Order Agnostic Binary Search](link)|[Notes](link)|--|
    |4. [Ceiling of a Number](link)|[Notes]()|--|
    |5. [floor of a Number](link)|[Notes]()|--|
-   |6. [Find Smallest Letter Greater Than Target]|[Notes]()|[Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
+   |6. [Find Smallest Letter Greater Than Target](link)|[Notes]()|[Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
 
 
