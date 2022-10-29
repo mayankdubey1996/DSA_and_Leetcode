@@ -12,17 +12,18 @@ worst case time complexity of linear search is O(n).
 - Can we do better? given that array is sorted.
 
 ``` py
-	- Initialize start_idx = 0, end_idx = len(arr)-1
-	- while end_idx>=start_idx:
-		1. Calculate mid:
-			mid_idx = (start_idx+ end_idx)//2 #floor division
-		2. IF array[mid_idx]==target:
-			return mid_idx OR True
-		3. IF  array[mid_idx]<target:
-			Update: start_idx = mid+1
-		4. ELSE:
-			Update end_idx = mid-1
-	- return -1 OR FALSE #target element Not found
+	FUNCTION binary_search(array,target)
+		- Initialize start_idx = 0, end_idx = len(arr)-1
+		- while end_idx>=start_idx:
+			1. Calculate mid:
+				mid_idx = (start_idx+ end_idx)//2 #floor division
+			2. IF array[mid_idx]==target:
+				return mid_idx OR True
+			3. IF  array[mid_idx]<target:
+				Update: start_idx = mid+1
+			4. ELSE:
+				Update end_idx = mid-1
+		- return -1 OR FALSE #target element Not found
 ```
 - __While loop will stop executing when start_idx become greater then end_idx, In that case element is not in the array and we return -1__
 
