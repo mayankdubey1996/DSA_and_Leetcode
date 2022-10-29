@@ -22,7 +22,7 @@ worst case time complexity of linear search is O(n).
 			Update: start_idx = mid+1
 		4. ELSE:
 			Update end_idx = mid-1
-	- return -1 #target element Not found
+	- return -1 OR FALSE #target element Not found
 ```
 - __While loop will stop executing when start_idx become greater then end_idx, In that case element is not in the array and we return -1__
 
