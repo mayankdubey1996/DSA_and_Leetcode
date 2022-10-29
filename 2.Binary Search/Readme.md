@@ -47,5 +47,6 @@ FUNCTION binary_search(array,target)
    |4. [Ceiling of a Number](link)|[Notes]()|--|
    |5. [floor of a Number](link)|[Notes]()|--|
    |6. [Find Smallest Letter Greater Than Target](link)|[Notes]()|[Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
+   |7.[Find First and Last Position of Element in Sorted Array]()|[Notes]()|[Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
 
 
