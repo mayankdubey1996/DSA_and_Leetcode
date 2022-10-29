@@ -16,7 +16,7 @@ FUNCTION binary_search(array,target)
 	- Initialize start_idx = 0, end_idx = len(arr)-1
 	- while end_idx>=start_idx:
 		1. Calculate mid:
-		mid_idx = (start_idx+ end_idx)//2 #floor division
+			mid_idx = (start_idx+ end_idx)//2 #floor division
 		2. IF array[mid_idx]==target:
 			return mid_idx OR True
 		3. IF  array[mid_idx]<target:
